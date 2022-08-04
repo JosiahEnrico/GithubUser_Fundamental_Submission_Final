@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBackground">#D24A4A4A</color>
+    <color name="colorPrimary">#5E5C5C</color>                                      <!--actionBarColor-->
+    <color name="colorPrimaryVariant">#000000</color>                               <!---->
+    <color name="colorButton">#10ffffff</color>
+    <color name="colorText">#FFFFFF</color>
+    <color name="colorEmpty">#B1B1B1</color>
+    <color name="colorItem">#AB000000</color>
+</resources>

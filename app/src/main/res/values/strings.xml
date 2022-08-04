@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Github User App</string>
+    <string name="search_user">Search User</string>
+    <string name="search_username">Search Username</string>
+
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="app_name2">User Detail</string>
+    <string name="app_name3">Favorite User</string>
+    <string name="followers">followers</string>
+    <string name="following">following</string>
+    <string name="company">company</string>
+    <string name="location">location</string>
+    <string name="repository">repository</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="emptyMain">Input to search username</string>
+    <string name="emptyFavorite">No favorite user selected yet</string>
+</resources>
